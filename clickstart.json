@@ -6,6 +6,7 @@
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/sencha_icon.png",
     "app-package" : "https://s3.amazonaws.com/cloudbees-downloads/clickstart/ios-clickstart-server.zip",
     "app-package-type" : "zip",
+    "order" : 1,
 
     "runtime": {
         "type": "play2",
