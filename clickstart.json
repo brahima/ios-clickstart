@@ -17,7 +17,7 @@
     "build-with-jenkins": {
       "plugins" : ["xcode-plugin"],
       "template": {
-              "type": "https://raw.github.com/michaelneale/ios-clickstart/master/jenkins-template.xml",
+              "type": "https://raw.github.com/CloudBees-community/ios-clickstart/master/jenkins-template.xml",
               "options": {
               }            
           }
