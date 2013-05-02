@@ -1,7 +1,5 @@
 # iOS apps on CloudBees
 
-Then this is for you!
-
 
 Running this ClickStart will setup (in CloudBees) an iOS starter-project, private source repo, a Jenkins build
 and a CouchDB based backend service.
