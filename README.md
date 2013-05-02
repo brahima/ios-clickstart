@@ -1,4 +1,4 @@
-# Interested in iOS development, CloudBees and Jenkins?
+# iOS apps on CloudBees
 
 Then this is for you!
 
