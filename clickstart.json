@@ -7,7 +7,7 @@
     "order" : 2,
 
     "build-with-jenkins": {
-      "plugins" : ["xcode-plugin","appaloosa-plugin"],
+      "plugins" : ["xcode-plugin"],
       "template": {
               "type": "https://github.com/brahima/ios-clickstart/blob/master/jenkins-template.xml",
               "options": {
