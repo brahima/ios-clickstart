@@ -1,17 +1,16 @@
 {
-    "id": "ios-clickstart",
+    "id": "ios-clickstart-brahim",
     "name": "iOS app",
     "description": "iOS starter app for CI with CloudBees",
     "source": "github",
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/sencha_icon.png",
-    "order" : 2,
 
     "build-with-jenkins": {
       "plugins" : ["xcode-plugin"],
       "template": {
               "type": "https://github.com/brahima/ios-clickstart/blob/master/jenkins-template.xml",
               "options": {
-              }            
+              }
           }
     }
 
